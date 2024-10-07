@@ -138,11 +138,11 @@ input:checked + label{
 
 
 .card[for="c1"] {
-    background-image: url('catidle.gif')
+    background-image: url('cat_gif/catidle.gif')
 }
 .card[for="c2"] {
-    background-image: url('catrun.gif')
+    background-image: url('cat_gif/catrun.gif')
 }
 .card[for="c3"] {
-    background-image: url('catjump.gif')
+    background-image: url('cat_gif/catjump.gif')
 }
